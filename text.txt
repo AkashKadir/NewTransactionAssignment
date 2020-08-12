@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8A3D-C750
+
+ Directory of C:\Users\Personal\Desktop\New Assignment
+
+12-08-2020  22:07    <DIR>          .
+12-08-2020  22:07    <DIR>          ..
+12-08-2020  22:07                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18,764,615,680 bytes free
